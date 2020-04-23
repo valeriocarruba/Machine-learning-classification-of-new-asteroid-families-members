@@ -1,0 +1,10 @@
+gfortran prepare_family.f
+./a.out
+python3 KNN.py
+gfortran write_family.f
+./a.out
+rm -f family_test
+rm -f back_test
+rm -f input_data
+rm -f results.dat
+rm -f a.out 
