@@ -1,0 +1,11 @@
+Select zone of the asteroid belt:
+1) Hungaria region: 1.780 < a <  2.253, 0.0 < sin(i) < 0.9
+2) L. I. Inner main belt: 2.257 < a < 2.465, 0.0 < sin(i) < 0.3
+3) H. I. Inner main belt: 2.257 < a < 2.465, 0.3 < sin(i) < 0.9
+4) L. I. central main belt: 2.520 < a < 2.818, 0.0 < sin(i) < 0.3
+5) H. I. central main belt: 2.520 < a < 2.818, 0.3 < sin(i) < 0.9
+6) L. I. outer main belt: 2.832 < a < 3.240, 0.0 < sin(i) < 0.3
+7) H. I. outer main belt: 2.832 < a < 3.240, 0.3 < sin(i) < 0.9
+8) Cybele region:  3.290 < a < 3.800,  0.0 < sin(i) < 0.9
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+1
