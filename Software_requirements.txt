@@ -1,6 +1,4 @@
-The software provided in this package was developed for the UNIX UBUNTU
-operational system.  The codes may be adapted to other operational systems,
-but these systems are not supported.
+The software provided in this package was developed for the UNIX UBUNTU operational system.  The codes may be adapted to other operational systems,but these systems are not supported.
 
 In order to run the codes, you will need to have installed:
 
