@@ -1,10 +1,7 @@
 # Machine-learning-classification-of-new-asteroid-families-members
 Repository for the codes necessary to identify new members of asteroid families.
 Algorthms for the ExtraTree. KNN, XGBoost and Adaboost methods are provided with this
-repository.  Mode details on the theory behind these methods are available in 
-Carruba et al. (2020), MNRAS, ... .
-
-The first steps to set up the models are described below.
+repository.  The first steps to set up the models are described below.
 
 1) As a first step, create the proper element files for the asteroid region
 of interest with the codes in the ZONE_SELECTION directory.  Read the Readme
